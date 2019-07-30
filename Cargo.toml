@@ -3,6 +3,8 @@ name = "transplant"
 version = "0.1.0"
 authors = ["Loïc Grobol <loic.grobol@gmail.com>"]
 edition = "2018"
+description = "A fast, out-of-place, out-of-memory search and replace for very large files"
+license = "MIT"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
