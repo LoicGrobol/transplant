@@ -10,4 +10,4 @@ homepage = "https://github.com/LoicGrobol/transplant"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-memchr = "2.2.1"
+aho-corasick = "0.7.6"
